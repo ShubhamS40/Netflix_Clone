@@ -1,7 +1,7 @@
 
 # NETFLIX CLONE
 
-A Simple Netflix  Webpage Clone  Built with  HTML/CSS that is basically a static Webpage.
+A Simple Netflix  Webpage Clone  Built with  HTML/CSS/JS that is basically a static Webpage.
 
 
 ## Features
